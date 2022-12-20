@@ -1,7 +1,5 @@
 $(function() {
-
-  // Signup modal
-
+  
   $('.signup-show').click(function() {
     $('#signup-modal').fadeIn();
   });
